@@ -12,7 +12,7 @@ This repository contains MATLAB code to:
    - **Kang–Stern pseudo-Wald test** (null = random matching)
    - **Kang–Stern likelihood-ratio (LR) test** of independence (null = random matching)
    - **Siow (2015) TP2** and **DP2** restriction-based LR tests (null = PAM), with **parametric bootstrap** critical values and \(p\)-values
-
+4. In particular, **main_section_3.m** includes code generating simulated data  
 The code also writes LaTeX tables for inclusion in the manuscript.
 
 There are three empirical/simulation blocks:
@@ -21,5 +21,4 @@ There are three empirical/simulation blocks:
 - **Same-sex marriage**: compute tests by pooled/male/female samples.  
 - **Income-rank (CPS)**: compute tests on wage-rank quintiles (and education).
 
-- **main_section_3.m** includes code generating simulated data  
 
