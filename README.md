@@ -21,5 +21,5 @@ There are three empirical/simulation blocks:
 - **Same-sex marriage**: compute tests by pooled/male/female samples.  
 - **Income-rank (CPS)**: compute tests on wage-rank quintiles (and education).
 
-- **main_section_3.m** includes simulated data  
+- **main_section_3.m** includes code generating simulated data  
 
